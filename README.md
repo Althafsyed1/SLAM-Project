@@ -39,6 +39,14 @@ The objective of this project is to demonstrate a **Simultaneous Localization an
 
 Screenshots of the mapping process and final results are included in the final report.
 
+## SLAM Results
+
+The figure below shows the occupancy grid map generated using the GMapping SLAM algorithm
+from the Rawseeds Bicocca dataset.
+
+![SLAM Map Result](results/tuned_front.png)
+
+
 -----------------------------------------------------
 
 ## Tools and Software
