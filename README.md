@@ -46,7 +46,7 @@ from the Rawseeds Bicocca dataset.
 
 ![SLAM Map Result](results/tuned_front.png)
 
-**
+
 -----------------------------------------------------
 
 ## Tools and Software
